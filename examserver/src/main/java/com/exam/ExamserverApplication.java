@@ -41,11 +41,11 @@ public void run(String... args) throws Exception {
 ////
 //            User user = new User();
 //
-//            user.setFirstName("Suleman");
-//            user.setLastName("Syed");
-//            user.setUsername("sul123");
-//            user.setPassword(this.bCryptPasswordEncoder.encode("sul@123"));
-//            user.setEmail("sul123@gmail.com");
+//            user.setFirstName("sush");
+//            user.setLastName("vemp");
+//            user.setUsername("sush123");
+//            user.setPassword(this.bCryptPasswordEncoder.encode("sush@123"));
+//            user.setEmail("sush@gmail.com");
 //            user.setProfile("default.png");
 //
 //            Role role1 = new Role();
