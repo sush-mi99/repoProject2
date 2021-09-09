@@ -89,10 +89,3 @@ ng serve --open //for running project on server
      <img src="https://github.com/fsuleman2/revature-project2/blob/master/screenshots/Examfront%20(15).png"><br><br>
      <img src="https://github.com/fsuleman2/revature-project2/blob/master/screenshots/Examfront%20(16).png"><br><br>
   
-# Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-For those who would like to discuss further development, my email is
-```
-sydsulmn7@gmail.com
-```
-  # License
