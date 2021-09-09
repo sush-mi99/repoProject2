@@ -75,7 +75,6 @@ ng serve --open //for running project on server
   <img src="https://github.com/fsuleman2/revature-project2/blob/master/screenshots/Examfront%20(2).png"><br><br>
     <img src="https://github.com/fsuleman2/revature-project2/blob/master/screenshots/Examfront%20(3).png"><br><br>
   <h3>ADMIN SECTION</h3><br><br>
-   <img src="https://github.com/fsuleman2/revature-project2/blob/master/screenshots/Examfront%20(5).png"><br><br>
    <img src="https://github.com/fsuleman2/revature-project2/blob/master/screenshots/Examfront%20(6).png"><br><br>
    <img src="https://github.com/fsuleman2/revature-project2/blob/master/screenshots/Examfront%20(7).png"><br><br>
    <img src="https://github.com/fsuleman2/revature-project2/blob/master/screenshots/Examfront%20(8).png"><br><br>
